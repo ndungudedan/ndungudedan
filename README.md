@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋, Dedan Kibere here</h2>
 <h3 align="center">A passionate Flutter/Kotlin/Java Mobile developer from <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
 
-- 🔭 I’m currently specializing on Web development (Laravel)
+- 🔭 I’m currently specializing on Mobile Development with FLutter/Kotlin/Java
 - 📫 How to reach me: email: dnkibere@gmail.com
 - ⚡ Fun fact: Learning coding has stunning cognitive-related benefits, such as problem-solving, computational thinking, analytical thinking, creative thinking, leadership-related skills, and even teamwork.
 - 💪 I believe in the power of team collaboration 
